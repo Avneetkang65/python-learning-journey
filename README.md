@@ -5,6 +5,7 @@ structured video course, plus additional self-practice questions I've written
 and solved to reinforce each concept.
 
 YouTube link - https://www.youtube.com/watch?v=LgW6Vla0kXA&list=PL8_qHU8FwVhZ8cNLfmTwE2b_KE0oB2pWg
+
 YouTube Channel - The iScale
 
 I'm sharing this publicly to track my progress and stay accountable — expect
