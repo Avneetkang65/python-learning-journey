@@ -4,6 +4,9 @@ This repository documents my journey learning Python fundamentals through a
 structured video course, plus additional self-practice questions I've written
 and solved to reinforce each concept.
 
+YouTube link - https://www.youtube.com/watch?v=LgW6Vla0kXA&list=PL8_qHU8FwVhZ8cNLfmTwE2b_KE0oB2pWg
+YouTube Channel - The iScale
+
 I'm sharing this publicly to track my progress and stay accountable — expect
 regular commits as I keep working through new topics.
 
